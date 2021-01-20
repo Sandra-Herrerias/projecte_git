@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hola mundo3
+=======
+
+Hola mundo
+>>>>>>> branch1
 
